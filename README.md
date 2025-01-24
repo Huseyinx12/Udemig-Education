@@ -26,11 +26,11 @@ visually appealing way, ensuring ease of use for both desktop and mobile users.
 
 <h2> Technologied Used </h2>
 
-•	HTML5: Provides the structure and foundation of the site.
+•	<h5>HTML5</h5>: Provides the structure and foundation of the site.
 
-•	CSS3: Used for styling, animations, and layout enhancements.
+•	<h5>CSS3</h5>: Used for styling, animations, and layout enhancements.
 
-•	Responsive Design: Ensures adaptability to various screen sizes using media queries.
+•	<h5>Responsive Design</h5>: Ensures adaptability to various screen sizes using media queries.
 
 Udemig Education combines functionality and design to create an intuitive 
 
